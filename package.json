@@ -1,0 +1,30 @@
+{
+  "name": "pipam-homebrew",
+  "version": "1.0.0",
+  "description": "A Homebrew plugin for Pipam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests, yet..\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipam/pipam-homebrew.git"
+  },
+  "keywords": [
+    "pipam",
+    "pipam-plugin",
+    "homebrew"
+  ],
+  "author": "facekapow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipam/pipam-homebrew/issues"
+  },
+  "homepage": "https://github.com/pipam/pipam-homebrew#readme",
+  "pipam": {
+    "displayName": "Homebrew"
+  },
+  "dependencies": {
+    "then-utils": "^1.4.0"
+  }
+}
